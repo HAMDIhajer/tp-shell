@@ -1,0 +1,18 @@
+initLogrotate [INFO] : 0. Debut programme ./logrotate.sh
+initLogrotate [INFO] : Aucun nom de fichier de configuration passe en paramètre
+initLogrotate [INFO] : FIC_PARAM=/home/adm1/tpshell/logrotate/cfg/logrotate.cfg (Valeur par defaut)
+initLogrotate [INFO] : ####################################
+initLogrotate [INFO] : 1. Detail des variables du programme
+initLogrotate [INFO] : ####################################
+initLogrotate [INFO] :
+initLogrotate [INFO] : HORODATAGE = 202301070649
+initLogrotate [INFO] : DIR_HOME   = /home/adm1/tpshell/logrotate
+initLogrotate [INFO] : DIR_SHL    = /home/adm1/tpshell/logrotate/shl
+initLogrotate [INFO] : DIR_WRK    = /home/adm1/tpshell/logrotate/wrk
+initLogrotate [INFO] : DIR_LOG    = /home/adm1/tpshell/logrotate/log
+initLogrotate [INFO] : DIR_TMP    = /home/adm1/tpshell/logrotate/tmp
+initLogrotate [INFO] : DIR_CFG    = /home/adm1/tpshell/logrotate/cfg
+initLogrotate [INFO] : LIST_FIC   = /home/adm1/tpshell/logrotate/wrk/logrotate_202301070649.lst
+initLogrotate [INFO] :
+initLogrotate [INFO] :
+initLogrotate [INFO] : Fin de initLogrotate
